@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cursos>
+<curso>
+<codigo>1</codigo>
+<nome>Administração</nome>
+</curso>
+<curso>
+<codigo>2</codigo>
+<nome>Engenharia de Produção</nome>
+</curso>
+<curso>
+<codigo>3</codigo>
+<nome>Sistemas de Informação</nome>
+</curso>
+<curso>
+<codigo>4</codigo>
+<nome>Engenharia Elétrica</nome>
+</curso>
+<curso>
+<codigo>5</codigo>
+<nome>Educação Física</nome>
+</curso>
+<curso>
+<codigo>6</codigo>
+<nome>Fisioterapia</nome>
+</curso>
+<curso>
+<codigo>7</codigo>
+<nome>Computação</nome>
+</curso>
+</cursos>
