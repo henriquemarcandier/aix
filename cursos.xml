@@ -2,23 +2,23 @@
 <cursos>
 <curso>
 <codigo>1</codigo>
-<nome>Administração</nome>
+<nome>AdministraÃ§Ã£o</nome>
 </curso>
 <curso>
 <codigo>2</codigo>
-<nome>Engenharia de Produção</nome>
+<nome>Engenharia de ProduÃ§Ã£o</nome>
 </curso>
 <curso>
 <codigo>3</codigo>
-<nome>Sistemas de Informação</nome>
+<nome>Sistemas de InformaÃ§Ã£o</nome>
 </curso>
 <curso>
 <codigo>4</codigo>
-<nome>Engenharia Elétrica</nome>
+<nome>Engenharia ElÃ©trica</nome>
 </curso>
 <curso>
 <codigo>5</codigo>
-<nome>Educação Física</nome>
+<nome>EducaÃ§Ã£o FÃ­sica</nome>
 </curso>
 <curso>
 <codigo>6</codigo>
@@ -26,6 +26,6 @@
 </curso>
 <curso>
 <codigo>7</codigo>
-<nome>Computação</nome>
+<nome>ComputaÃ§Ã£o</nome>
 </curso>
 </cursos>

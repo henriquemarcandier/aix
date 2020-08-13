@@ -523,6 +523,24 @@ $("#cadastroCursos").submit(function(evt){
 function exportarCursos(){
     location.href='exportarCursos.php?nomeFiltro='+$("#nomeFiltro").val();
 }
+function validaCepCadastro(cep){
+    if (cep.length <= 8){
+        alert('Informe o cep corretamente!');
+        $("#cepCadastro").focus();
+    }
+    else{
+        verificaCepCadastroAluno(cep);
+    }
+}
+function validaCepEdicao(cep){
+    if (cep.length <= 8){
+        alert('Informe o cep corretamente!');
+        $("#cepEdicao").focus();
+    }
+    else{
+        verificaCepEdicaoAluno(cep);
+    }
+}
 function verificaCepCadastroAluno(valor) {
     //Nova variável "cep" somente com dígitos.
     var cep = valor.replace(/\D/g, '');
